@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "topaz",
+  "base_artist": "M!LK",
+  "createdAt": "2026-03-29T15:11:16.273549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/01_Topaz_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "The B‐52s",
+      "has_synced": true,
+      "path": "select/02_Topaz_The_B‐52s.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "BONES feat. Lyson",
+      "has_synced": true,
+      "path": "select/03_Topaz_BONES_feat._Lyson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "Bones, Lyson",
+      "has_synced": true,
+      "path": "select/04_Topaz_Bones,_Lyson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holy Ghost (feat. Topaz Jones & Haasan Barclay)",
+      "artist": "Khary",
+      "has_synced": false,
+      "path": "select/05_Holy_Ghost_(feat._Topaz_Jones_&_Haasan_Barclay)_Khary.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TOPAZ -symphonic ver.-",
+      "artist": "Jupiter",
+      "has_synced": true,
+      "path": "select/06_TOPAZ_-symphonic_ver.-_Jupiter.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HOMEGIRL (feat. Smino & Topaz Jones)",
+      "artist": "Leven Kali",
+      "has_synced": true,
+      "path": "select/07_HOMEGIRL_(feat._Smino_&_Topaz_Jones)_Leven_Kali.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "Bones",
+      "has_synced": true,
+      "path": "select/08_Topaz_Bones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Topaz",
+      "artist": "B-52's",
+      "has_synced": true,
+      "path": "select/09_Topaz_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TOPAZ",
+      "artist": "NeS",
+      "has_synced": true,
+      "path": "select/10_TOPAZ_NeS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TOPAZ",
+      "artist": "SHAZNA",
+      "has_synced": false,
+      "path": "select/11_TOPAZ_SHAZNA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "topaz",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_topaz_M!LK.txt"
+    }
+  ]
+}
